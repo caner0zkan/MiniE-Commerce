@@ -1,0 +1,17 @@
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Presistence.deps.json
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Presistence.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ref\ECommerce.Presistence.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Presistence.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Application.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Domain.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Application.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\bin\Debug\net6.0\ECommerce.Domain.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.csproj.AssemblyReference.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.AssemblyInfoInputs.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.AssemblyInfo.cs
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.csproj.CoreCompileInputs.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.csproj.CopyComplete
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ref\ECommerce.Presistence.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Presistence\obj\Debug\net6.0\ECommerce.Presistence.pdb

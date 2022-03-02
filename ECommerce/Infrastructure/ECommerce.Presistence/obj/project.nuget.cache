@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbVw9SPXz9xwpnvsgztRHPtdiPN4WzUvkuPceCKcgM83VxijzICQp4gb6YhmBF2f46gEdH+ymiKfsiVMD6gh8A==",
+  "success": true,
+  "projectFilePath": "C:\\App Projects\\GitHub\\MiniE-Commerce\\ECommerce\\Infrastructure\\ECommerce.Presistence\\ECommerce.Presistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

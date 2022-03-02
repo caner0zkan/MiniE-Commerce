@@ -1,0 +1,15 @@
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Application.deps.json
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Application.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\bin\Debug\net6.0\ref\ECommerce.Application.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Application.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Domain.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Domain.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.AssemblyInfo.cs
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.csproj.CopyComplete
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ref\ECommerce.Application.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.pdb
