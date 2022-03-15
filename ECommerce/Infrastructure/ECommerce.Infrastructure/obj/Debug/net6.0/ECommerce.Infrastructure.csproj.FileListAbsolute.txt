@@ -1,0 +1,17 @@
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Infrastructure.deps.json
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Infrastructure.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Infrastructure.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Application.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Domain.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Application.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Domain.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.csproj.CopyComplete
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\refint\ECommerce.Infrastructure.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ref\ECommerce.Infrastructure.dll

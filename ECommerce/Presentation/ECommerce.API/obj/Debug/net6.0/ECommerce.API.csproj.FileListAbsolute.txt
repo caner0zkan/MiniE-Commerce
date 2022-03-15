@@ -4,7 +4,6 @@ C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\D
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
-C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ref\ECommerce.API.dll
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -12,9 +11,7 @@ C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\D
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Application.dll
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Domain.dll
-C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Presistence.dll
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Application.pdb
-C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Presistence.pdb
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Domain.pdb
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -31,3 +28,14 @@ C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\D
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
 C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Humanizer.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Npgsql.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Persistence.dll
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.Persistence.pdb
+C:\App Projects\GitHub\MiniE-Commerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
